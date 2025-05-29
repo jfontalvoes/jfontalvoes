@@ -73,14 +73,6 @@
 
 ###
 
-<h3 align="left">Contributions:</h3>
-
-###
-
-<img src="https://raw.githubusercontent.com/jfontalvoes/jfontalvoes/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="center">Contacto</h3>
 
 ###
