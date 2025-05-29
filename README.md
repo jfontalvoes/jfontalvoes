@@ -1,13 +1,3 @@
-<div align="center">
-  <img height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdveHpmOTl0eWZzM3FqanQyazV3eWs3aWM3bTFwZ2E2amRvdHdsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SBvowbUwAmenC/giphy.gif" />
-
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jfontalvoes.jfontalvoes&"  />
-</div>
 
 ###
 
@@ -20,6 +10,12 @@
 ###
 
 <p align="left">I'm Jonathan Estiven Fontalvo Aparicio from Barranquilla, Colombia.<br><br>🔭 I'm currently learning about automation and data analysis.<br>🌱 I like to explore topics like machine learning, secure systems, and web development.<br>🔙 My most recent role was as a PCI DSS intern at ControlCase, where I contributed to security assessments for global clients.<br>⚡ Fun fact: I enjoy mixing tech with music and creativity.</p>
+
+###
+
+<div align="center">
+  <img height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaHdveHpmOTl0eWZzM3FqanQyazV3eWs3aWM3bTFwZ2E2amRvdHdsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SBvowbUwAmenC/giphy.gif" />
+</div>
 
 ###
 
@@ -84,6 +80,12 @@
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=jestivenfontalvo@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=jfontalvoes.jfontalvoes&"  />
 </div>
 
 ###
