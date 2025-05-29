@@ -1,4 +1,3 @@
-
 ###
 
 <h1 align="center">Howdy, amigo👋</h1>
@@ -84,11 +83,12 @@
 
 ###
 
+<h3 align="center">Contacto</h3>
+
+###
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/jfontalvoes/count.svg?"  />
-</div>
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jfontalvoes.jfontalvoes&"  />
 </div>
 
 ###
