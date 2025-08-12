@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">I'm Jonathan Estiven Fontalvo Aparicio from Barranquilla, Colombia.<br><br>🔭 I'm currently learning about automation and data analysis.<br>🌱 I like to explore topics like machine learning, secure systems, and web development.<br>🔙 My most recent role was as a PCI DSS intern at ControlCase, where I contributed to security assessments for global clients.<br>⚡ Fun fact: I enjoy mixing tech with music and creativity.</p>
+<p align="left">I'm Jonathan Estiven Fontalvo Aparicio from Barranquilla, Colombia.<br><br>🔭 I'm currently learning about automation and data analysis.<br>🌱 I like to explore topics like machine learning, secure systems, and web development.<br>🔙 My most recent role is in the education sector, working with Machine Learning and Artificial Intelligence to develop personalized learning experiences.<br>⚡ Fun fact: I enjoy mixing tech with music and creativity.</p>
 
 ###
 
